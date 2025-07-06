@@ -10,26 +10,10 @@ Here are the three main files you'll be working with:
 - `style.css` – This file handles how everything looks — colors, fonts, spacing, and more.
 - `script.js` – This is where the magic happens! It handles how quotes change when you click the button.
 
- What Does the App Do?
-
-- As soon as the page loads, you'll see a motivational quote.
-- Click the "Show Quote" button to see a new one each time.
-- The quotes come from a small list written in the JavaScript file.
-- You’ll also notice a smooth animation whenever the quote changes — just a nice touch to make it feel more polished!
+ ### 🔗 Live Demo: [Click here](https://quote-app-seven-bice.vercel.app/)
 
 
-What You’ll Learn
 
-If you’re new to coding, this project helps you practice:
-
-- How HTML is used to build the structure of a page
-- How CSS makes the page look stylish and adds animations
-- How JavaScript lets you interact with the page (like making the button work)
-- Using arrays and random numbers in JavaScript
-- Working with the DOM using `getElementById()` and event listeners
-
-
-## 🙌 Why This Project Exists
 
 This was made as a fun, beginner-friendly practice project. It’s simple, but it helps you understand how websites actually work — and it’s satisfying to build something that looks good and works smoothly!
 
